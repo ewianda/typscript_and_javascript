@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@bazel/typescript": "^5.2.0",
+    "jest": "^27.5.1"
+  },
+  "devDependencies": {
+    "@types/jest": "^27.4.1"
+  }
+}
